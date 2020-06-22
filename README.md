@@ -11,4 +11,4 @@ i najprostszy sposób będzie w stanie rozwieźć pasażerów na wybrane przez n
 
 ## Informacje dodatkowe
 * Zgodnie z treścią zadania na interfejsie użytkownika widnieje masa przewożonych pasażerów.
-*Jako średnią wagę pasażera przyjeliśmy 70kg, a maksymalny udźwig 560kg.
+* Jako średnią wagę pasażera przyjeliśmy 70kg, a maksymalny udźwig 560kg.
